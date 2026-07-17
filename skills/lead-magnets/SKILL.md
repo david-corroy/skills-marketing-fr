@@ -312,6 +312,6 @@ Pour une stratégie d'aimant à leads, livre :
 ## Skills liés
 
 - **copywriting** : pour rédiger le contenu de l'aimant et sa landing page
-- **free-tools** : pour les outils interactifs (calculateurs, auto-diagnostics) *(à venir)*
-- **emails** : pour les séquences après capture *(à venir)*
-- **cro** : pour optimiser landing pages et formulaires *(à venir)*
+- **free-tools** : pour les outils interactifs (calculateurs, auto-diagnostics)
+- **emails** : pour les séquences après capture
+- **cro** : pour optimiser landing pages et formulaires

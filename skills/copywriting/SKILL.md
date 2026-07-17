@@ -260,6 +260,6 @@ Pour titres et CTA, 2-3 options :
 ## Skills liés
 
 - **lead-magnets** : pour concevoir l'aimant à leads que le texte promeut
-- **emails** : pour le copywriting e-mail *(à venir)*
-- **cro** : si c'est la structure de la page qui pèche, pas le texte *(à venir)*
-- **ab-testing** : pour tester des variantes *(à venir)*
+- **emails** : pour le copywriting e-mail
+- **cro** : si c'est la structure de la page qui pèche, pas le texte
+- **ab-testing** : pour tester des variantes

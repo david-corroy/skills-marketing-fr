@@ -1,0 +1,19 @@
+{
+  "name": "skills-marketing-fr",
+  "owner": {
+    "name": "Bernard David Corroy",
+    "url": "https://www.david-corroy.com"
+  },
+  "metadata": {
+    "description": "Skills marketing en français pour Claude Code — stratégie, contenu, acquisition, SEO & IA, conversion, rétention, mesure, ventes — adaptés au marché et au droit français (RGPD/CNIL)",
+    "version": "1.0.0",
+    "repository": "https://github.com/david-corroy/skills-marketing-fr"
+  },
+  "plugins": [
+    {
+      "name": "skills-marketing-fr",
+      "description": "47 skills marketing en français : ab-testing, ad-creative, ads, ai-seo, analytics, aso, churn-prevention, co-marketing, cold-email, community-marketing, competitor-profiling, competitors, content-strategy, copy-editing, copywriting, cro, customer-research, directory-submissions, emails, free-tools, image, launch, lead-magnets, marketing-council, marketing-ideas, marketing-loops, marketing-plan, marketing-psychology, offers, onboarding, paywalls, popups, pricing, product-marketing, programmatic-seo, prospecting, public-relations, referrals, revops, sales-enablement, schema, seo-audit, signup, site-architecture, sms, social, video",
+      "source": "./"
+    }
+  ]
+}

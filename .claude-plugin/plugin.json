@@ -1,0 +1,12 @@
+{
+  "name": "skills-marketing-fr",
+  "description": "47 skills marketing en français pour Claude Code — copywriting, acquisition, conversion, rétention, growth : adaptés au marché français (Brevo/Mailjet, euros HT/TTC) et au droit français (RGPD/CNIL, publicité, SMS), avec la couche visibilité IA (GEO) intégrée",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bernard David Corroy"
+  },
+  "homepage": "https://www.david-corroy.com",
+  "repository": "https://github.com/david-corroy/skills-marketing-fr",
+  "license": "MIT",
+  "skills": "./skills"
+}
