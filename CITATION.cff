@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer ainsi."
+title: "Skills marketing en français pour Claude Code"
+type: software
+authors:
+  - family-names: Corroy
+    given-names: "Bernard David"
+    website: "https://www.david-corroy.com/"
+repository-code: "https://github.com/david-corroy/skills-marketing-fr"
+url: "https://www.david-corroy.com/travaux-et-donnees/"
+date-released: 2026-07-16
+license: MIT
+keywords:
+  - "marketing"
+  - "Claude Code"
+  - "skills"
+  - "RGPD"
